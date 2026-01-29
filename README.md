@@ -4,6 +4,9 @@
 Late deliveries negatively impact customer satisfaction and increase operational costs.  
 This project predicts whether an order is likely to be delivered late **at the time of purchase**.
 
+<img width="430" height="200" alt="ecommerce-machine-learning-use-cases-300x167" src="https://github.com/user-attachments/assets/11dec19b-a30b-4316-848f-d5fa5aad9bf5" />
+
+
 ## Dataset
 Olist Brazilian E-Commerce public dataset.
 
